@@ -1,4 +1,4 @@
-# ALigned Latent Models
+# Aligned Latent Models
 
 
 This repository hosts the source code and website code for the paper "Simplifying Model-based RL: Learning Representations, Latent-space Models and Policies with One Objective" authored by  Raj Ghughare, Homanga Bharadhwaj, Benjamin Eysenbach, Sergey Levine3, Ruslan Salakhutdinov. 
